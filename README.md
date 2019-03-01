@@ -9,4 +9,5 @@ Natalia Sanchez Sanchez - 54206.
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+-Incriptar datos proporcionados en el ordenador.
+-Desincriptar datos.
