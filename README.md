@@ -1,10 +1,11 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Incriptador-Desincriptador
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Jorge Ortega Mateo - 54134.
+Natalia Sanchez Sanchez - 54206.
 
 ## Objetivos del trabajo
 
