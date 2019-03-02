@@ -1,6 +1,6 @@
 # Título del trabajo
 
-Incriptador-Desincriptador
+Encriptador-Desencriptador
 
 ## Integrantes del equipo
 
