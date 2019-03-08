@@ -1,6 +1,6 @@
 # Título del trabajo
 
-Encriptador-Desencriptador
+Radar de objetos.
 
 ## Integrantes del equipo
 
@@ -9,5 +9,5 @@ Natalia Sanchez Sanchez - 54206.Usuario de github:nataliasanchezsanchez
 
 ## Objetivos del trabajo
 
--Incriptar datos proporcionados en el ordenador.
--Desincriptar datos.
+-Localizar donde se encuentra los objetos.
+-Mostrar en la pantalla del orenador esta información.
