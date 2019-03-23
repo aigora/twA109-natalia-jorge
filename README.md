@@ -11,3 +11,6 @@ Natalia Sanchez Sanchez. Usuario de github: @nataliasanchezsanchez
 
 -Localizar donde se encuentra los objetos.
 -Mostrar en la pantalla del orenador esta información.
+
+## Sensores y actuadores
+sensor de distancia, mediante ultrasonidos que medirá el rebote para saber la distancia hasta un objeto. 
